@@ -1,0 +1,4 @@
+﻿  HistogramEqualization.cpp
+e:\vsexample\histogramequalization\histogramequalization\histogramequalization.cpp(42): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\vsexample\histogramequalization\histogramequalization\histogramequalization.cpp(63): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  HistogramEqualization.vcxproj -> E:\VSexample\HistogramEqualization\x64\Debug\HistogramEqualization.exe
